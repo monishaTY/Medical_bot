@@ -1,2 +1,1 @@
-# Medical_bot
-Project for chatbot assistant in medical field
+# MEDICAL_CHAT_BOT
